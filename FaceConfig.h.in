@@ -1,0 +1,2 @@
+#define Face_VERSION_MAJOR @Face_VERSION_MAJOR@
+#define Face_VERSION_MINOR @Face_VERSION_MINOR@

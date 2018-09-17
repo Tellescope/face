@@ -1,0 +1,4 @@
+C:/Users/david/Desktop/tellescope_stuff/face/CMakeFiles/Face.dir
+C:/Users/david/Desktop/tellescope_stuff/face/CMakeFiles/INSTALL.dir
+C:/Users/david/Desktop/tellescope_stuff/face/CMakeFiles/ALL_BUILD.dir
+C:/Users/david/Desktop/tellescope_stuff/face/CMakeFiles/ZERO_CHECK.dir
